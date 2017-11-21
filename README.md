@@ -1,3 +1,7 @@
+***
+This repo has moved to https://github.com/Dockins/jocker
+***
+
 # Jocker, a Java client library for Docker API
 
 Jocker is (yet another) Docker Client library to access Docker API. 
